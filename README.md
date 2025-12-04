@@ -1,7 +1,7 @@
-# 📊 Excel Dashboard Portfolio – by *Mercy Kamau (Swee)*
+# 📊 Excel Dashboard Portfolio – by mercy kamau
 
 Welcome to my Excel Dashboard Portfolio!  
-This repository showcases dashboards I created to turn raw data into **actionable insights** for business decisions. It includes my **Sales Performance Dashboard** and **Employee Performance Dashboard**, demonstrating skills in **data cleaning, pivot tables, KPIs, and interactive visualization**.
+This repository showcases dashboards I created to turn raw data into actionable insights for business decisions. It includes my Sales Performance Dashboardand Employee Performance Dashboard, demonstrating skills in data cleaning, pivot tables, KPIs, and interactive visualization.
 
 
 ## 📁 Projects Included
